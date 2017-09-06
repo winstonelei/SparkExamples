@@ -1,0 +1,9 @@
+zahngsan 100
+zahngsan 80
+aacc 100
+tttt 100
+hello 50
+zahngsan 70
+zahngsan 90
+zahngsan 50
+zahngsan 40
